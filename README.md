@@ -1,4 +1,4 @@
-# LDOStealthChanger
+# LDO StealthChanger Kit
 This repository contains supplementary information/configuration/3d models for the LDO StealthChanger Kit. 
 
 We would thank the [DraftShift](https://github.com/DraftShift) Design team for all of their work on the [StealthChanger](https://github.com/DraftShift/StealthChanger) tool changing system.
